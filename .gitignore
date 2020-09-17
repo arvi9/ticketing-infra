@@ -3,3 +3,6 @@
 /common
 /tickets
 /nats-test
+/orders
+/expiration
+/payments
